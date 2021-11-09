@@ -1,3 +1,3 @@
 # UmbrellaAcademy
-Getting our feet wet with GitHub
+Getting our feet wet with GitHub  
 The initiates of Class 2021
